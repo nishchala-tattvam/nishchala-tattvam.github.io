@@ -13,9 +13,12 @@ There are five sections mentioned in the project description.
 - Results
 - Discussion and conclusions
 
-The author believe the *Introduction* and *Results* section maps to user documentation in software development settings. So it is natural to combine them together as documentation.
-The author also merges *Code design and implementation* and *Discussion and conclusions*. They come under *technical aside*.
+The author believe the *Introduction* and *Results* section maps to user documentation in software development settings. So it is natural to combine them together as [documentation].
+The author also merges *Code design and implementation* and *Discussion and conclusions*. They come under [technical aside].
 Abstract is left as a standalone section.
+
+  [documentation]: gstar.md
+  [technical aside]: tech-aside.md
 
 
 <!-- !!! failure "Substandard commits"
