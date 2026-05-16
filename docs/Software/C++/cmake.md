@@ -21,7 +21,7 @@ $ ./build/hello
 ## Common CMLs
 ### Building an executable
 
-```text linenums="1" 
+```cmake linenums="1" 
 add_executable(MyProgram)
 
 target_sources(MyProgram
@@ -32,7 +32,7 @@ target_sources(MyProgram
 
 ### Building a library
 
-```text linenums="1"
+```cmake linenums="1"
 add_library(MyLibrary)
 
 target_sources(MyLibrary
@@ -50,7 +50,7 @@ target_sources(MyLibrary
 
 ### Linking together libraries and executables
 
-```text linenums="1" 
+```cmake linenums="1" 
 target_link_libraries(MyProgram
         MyLibrary
 )
