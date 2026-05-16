@@ -1,5 +1,4 @@
 # Technical aside
-
 The goal of this project, as detailed in the project brief, is to
 
 > Design and apply a class hierarchy for storing observational data of astronomical objects
@@ -43,3 +42,9 @@ or his own interpretation to the official tutorial. Detailed explanation may be 
 
  [GoogleTest]: ../Software/C++/google-test.md
  [cmake]: ../Software/C++/cmake.md
+
+ ## Beyond this project
+ The code and features in this project is minimal. There are some obvious room for improvement.
+ For example, the regex sniffer could be more robust and flexible, allowing for varied data structure
+ instead of hard coding it. How the code could be extended depends on user needs. As mentioned before,
+ a very evolved form of this project would be a SQL like database customized for astrophysics data.

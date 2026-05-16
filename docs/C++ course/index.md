@@ -21,6 +21,19 @@ Abstract is left as a standalone section.
   [technical aside]: tech-aside.md
 
 
+## GenAI prompts
+The author used the following prompts to generate code/debug for this project:
+
+```text
+generate 10 more dummy data using the same format
+
+libc++abi: terminating due to uncaught exception of type std::invalid_argument: Type must be one of: Elliptical or Spiral
+fix
+Galaxies milky_way{"Milky way", coord, "Spiral", 10}; line 29
+
+do the same validation for minute and seconds in RightAscension
+```
+
 <!-- !!! failure "Substandard commits"
     The commits for the project are deliberately kept small and sometimes incomplete 
     (in terms of code function). This is below the professional standard the author normally would hold 
