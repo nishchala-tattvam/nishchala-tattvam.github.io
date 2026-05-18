@@ -29,7 +29,7 @@ and is shown as demo code in the `samples` folder.
 ## Testing
 Test coverage is quite limited due to time constraints. However, all tests written are passed. 
 
-## "Advanced" features
+## "Advanced features"
 The project brief asked the author to 
 
 > demonstrate the key ones (advanced code features) using short code snippets
