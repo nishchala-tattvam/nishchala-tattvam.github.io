@@ -50,6 +50,10 @@ Right Ascension: 4h 35m 55.24s
 Declination: 16° 30′ 33.5″
 ```
 
+!!! warning Limited encoding support on the university PC
+    The author is aware that the university PC only supports a subset of UTF-8,
+    so the minute and seconds superscript may look distorted.
+
 Notice the data members in `RaDec` are protected. To programmatically access them, we have provided
 the `get_ra()` and `get_dec()` methods.
 
