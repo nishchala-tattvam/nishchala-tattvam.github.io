@@ -1,5 +1,7 @@
-# General topics
+# Basic C++ language features
+
 ## Basic types
+
 ### Introduction
 Fundamental variable types in C++ are:
 
@@ -445,6 +447,14 @@ std::unique_ptr<LargeObject> pLarge(new LargeObject());
 
 ### Move semantics
 A special function `std::move()` takes in a `rvalue` as an argument and turns it into a `xvalue`.
+
+## RegEx
+Regex is provided by `<regex>` in the standard library.
+
+```cpp linenums="1"
+#include <regex>
+```
+
 ## References
 - [An excellent post] that answers some of the common questions about C++.
 - [Const correctness from ISOC++] 
