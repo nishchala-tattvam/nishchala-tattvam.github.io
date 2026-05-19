@@ -1,4 +1,4 @@
-# Basic C++ language features
+# C++ language features
 
 ## Basic types
 

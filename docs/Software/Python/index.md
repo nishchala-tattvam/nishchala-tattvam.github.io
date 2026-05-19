@@ -1,4 +1,4 @@
-# General topics
+# Python language features
 
 ## Variables 
 Fundamental types in Python are
