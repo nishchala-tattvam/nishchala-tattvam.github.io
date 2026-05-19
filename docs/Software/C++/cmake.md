@@ -1,5 +1,19 @@
 # cmake
+
+## Installation
+=== "Ubuntu"
+    First, set up [cmake APT repository] from kitware.
+
+      [cmake APT repository]: https://apt.kitware.com/
+
+    Then, 
+    
+    ```console
+    $ sudo apt-get install cmake
+    ```
+
 ## Common operations
+
 ### Generate a build system in a dir called build
 
 ```console
