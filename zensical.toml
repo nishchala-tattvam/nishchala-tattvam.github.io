@@ -1,7 +1,7 @@
 [project]
 # Basic site settings 
 site_name = "Haoze's notes"
-site_url = "https://nishchalatattve.github.io/"
+site_url = "https://nishchala-tattvam.github.io/"
 site_description = "Notes & references on technology"
 site_author = "Haoze Pang and contributors"
 copyright = """
